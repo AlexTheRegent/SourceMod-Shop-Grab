@@ -1,0 +1,110 @@
+"Phrases"
+{
+	"grab category name"
+	{
+		"#format"	""
+		"ru"		"Телекинез"
+		"en"		"Telekinesis"
+	}
+	"grab category description"
+	{
+		"#format"	""
+		"ru"		"Двигайте предметы силой мысли"
+		"en"		"Move items with power of your mind"
+	}
+	
+	"grab cooldown"
+	{
+		"#format"	"{1:.1f}"
+		"ru"		"Откат захвата: {1} секунд"
+		"en"		"On cooldown for {1} more second(s)"
+	}
+	"grab cooldown hint"
+	{
+		"#format"	"{1:.1f}"
+		"ru"		"Откат захвата: {1} секунд"
+		"en"		"On cooldown for {1} more second(s)"
+	}
+	"grab life time remain"
+	{
+		"#format"	"{1:.1f}"
+		"ru"		"Вы сможете продержать цель ещё {1} секунд"
+		"en"		"You can hold target for {1} second(s) more"
+	}
+	
+	"grab search stopped hint"
+	{
+		"#format"	""
+		"ru"		"Поиск цели остановлен"
+		"en"		"Target searching stopped"
+	}
+	"grab search stopped"
+	{
+		"#format"	""
+		"ru"		"Поиск цели остановлен"
+		"en"		"Target searching stopped"
+	}
+	
+	"grab searching target"
+	{
+		"#format"	""
+		"ru"		"Поиск цели..."
+		"en"		"Searching for target ..."
+	}
+	
+	"grab target too far"
+	{
+		"#format"	""
+		"ru"		"Цель слишком далеко... Ищу другую"
+		"en"		"Target is too far... Looking for another"
+	}
+	
+	"grab target too close"
+	{
+		"#format"	""
+		"ru"		"Цель слишком близко... Ищу другую"
+		"en"		"Target is too close... Looking for another"
+	}
+	
+	"grab target released"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Телекинез остановлен\nВы можете использовать его ещё {1} раз в этом раунде"
+		"en"		"Target is released\nYou can use grab {1} more times in this round"
+	}
+	
+	"grab uses limit hint"
+	{
+		"#format"	""
+		"ru"		"Достигнут лимит использования телекинеза в этом раунде"
+		"en"		"You can't use grab in this round anymore"
+	}
+	"grab uses limit"
+	{
+		"#format"	""
+		"ru"		"Достигнут лимит использования телекинеза в этом раунде"
+		"en"		"You can't use grab in this round anymore"
+	}
+	
+	"grab team restrict hint"
+	{
+		"#format"	""
+		"ru"		"Ваша команда не может использвать этот вид телекинеза"
+		"en"		"Your team can't use this kind of grab"
+	}
+	"grab team restrict"
+	{
+		"#format"	""
+		"ru"		"Ваша команда не может использвать этот вид телекинеза"
+		"en"		"Your team can't use this kind of grab"
+	}
+	
+	
+	"apprentice"
+	{
+		"#format"	""
+		"ru"		"Ученик"
+		"en"		"Apprentice"
+	}
+	
+}
